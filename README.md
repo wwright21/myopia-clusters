@@ -1,6 +1,6 @@
 # Myopia Clusters
 
-In this assignment, you’ll apply what you learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, you’ll create a visualization that shares your findings. 
+This assignment applies principles of unsupervised machine learning by fitting data to a model and using clustering algorithms to place data into groups. A final visualization summarizes the findings.
 
 ## Background
 
